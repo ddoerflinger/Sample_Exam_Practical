@@ -1,0 +1,41 @@
+Region,Place.name,Place.type,Rating,Price,Delivery.option,Dine.in.option,Takeout.option
+C,Коферум,Cafe,5,$$,False,,True
+C,Кофейня Starcoff,Coffee shop,4.4,$$,False,True,True
+C,SOVA COFFEE,Coffee shop,4.8,$$,False,True,True
+C,Кава Тайм,Coffee shop,4.9,$$,False,,True
+J,Dzhi,Cafe,4.5,$$,True,True,True
+J,Koffishka,Coffee shop,4.1,$$,False,True,True
+F,Verona,Others,4.5,$$,True,True,
+F,I love coffee,Coffee shop,4.7,$$,False,True,True
+F,Дом Кофе,Coffee shop,4.6,$$,False,True,True
+F,Prostir.coffee,Coffee shop,4.7,$$,True,True,True
+F,HOTCUP,Cafe,4.6,$$,False,,True
+B,Art Coffee,Espresso bar,4.6,$$,False,,
+B,"Мастерская ""Кофе на разлив""",Others,5,$$,False,,
+B,Dim Kavy,Espresso bar,4.8,$$,False,,
+B,Jays : Coffee Brewers,Others,4.5,$$,False,,True
+B,LittleTalk Coffee,Coffee shop,4.6,$$,False,True,True
+B,Dobra Kava,Cafe,4.3,$$,True,True,
+A,We Roast Coffee in Odessa,Coffee shop,4.5,$$,False,True,True
+A,Red Cup Coffee Roasters,Others,5,$$,False,,
+A,Жарим Кофе в Одессе. Обжарочная №4,Coffee shop,4.7,$$,False,,
+E,Lviv coffee manufacture (Valova),Coffee shop,4.6,$$,False,True,True
+E,Karmel Coffee Shop,Coffee shop,4.9,$$,False,True,True
+D,I want coffee,Coffee shop,4.4,$$,False,True,True
+D,Кофейня My Coffee,Cafe,4.5,$$,False,,True
+D,Coffee Craft,Cafe,4.7,$$,False,True,True
+G,"""®КАВА БАЗА®""",Others,5,$$,False,,
+G,Matílda cafe,Cafe,4.9,$$,False,True,True
+G,Kaffa,Cafe,4.7,$$,False,True,True
+G,The Blue Cup Coffee Shop,Espresso bar,4.6,$$,True,True,True
+G,Kaffa,Espresso bar,4.8,$$,False,True,True
+G,London,Cafe,4.7,$$,False,True,
+I,Мастерская Кофе,Coffee shop,4.7,$$,False,True,True
+I,Dom Kofe,Coffee shop,4.6,$$,False,,
+I,CoffeeDoor Brewbar & Coffeeshop,Coffee shop,4.7,$$,False,True,True
+I,Coffeelaktika coffee studio,Coffee shop,4.5,$$,False,True,True
+H,Бамбук,Cafe,4.1,$$,False,True,True
+H,Horizontal kaffee,Cafe,5,$$,False,True,
+H,"Coffee&Cake, Game zone PS4",Coffee shop,NA,$$,False,,
+H,Coffee Life,Cafe,4,$$,False,True,True
+H,Artist,Others,4.6,$$$,False,True,True

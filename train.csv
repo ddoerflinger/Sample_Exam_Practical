@@ -1,0 +1,161 @@
+Region,Place.name,Place.type,Rating,Reviews,Price,Delivery.option,Dine.in.option,Takeout.option
+C,Dim Kavu,Others,4.6,206,$$,False,,
+C,Кофейня Світ Чаю,Coffee shop,5,11,$$,False,,True
+C,"Кофейня ""Friend Zone""",Coffee shop,5,12,$$,False,True,True
+C,Racers Coffee Shop,Espresso bar,4.6,367,$$,False,True,True
+C,Займемся Кофе,Coffee shop,4.6,200,$$,False,True,True
+C,Кофейня Rit Rit,Coffee shop,4.6,292,$$,False,,True
+C,Кав'ярня My coffee,Coffee shop,4.8,31,$$,False,True,True
+C,LENЬ. Coffee & desserts.,Coffee shop,4.8,125,$$,True,True,True
+C,Skver кафе,Cafe,4.9,18,$$,False,True,True
+C,Кафе на Георгіївській,Cafe,4.5,806,$,False,True,True
+C,Khosper,Cafe,4.2,609,$$,False,True,True
+C,Lekontina Шоколадна Майстерня,Cafe,4.7,172,$$,True,True,True
+C,Lecker,Cafe,4.8,234,$$,True,True,True
+C,Veterano Coffee,Coffee shop,4.5,136,$$,False,,True
+C,VEIN,Cafe,4.5,166,$$,True,True,True
+C,Coffee Drive,Coffee shop,4.8,10,$$,False,True,True
+J,G COFFEE,Coffee shop,4.5,1596,$$,True,True,
+J,Kavun,Coffee shop,4.7,1785,$$,True,True,
+J,Buns Brew Bar,Coffee shop,4.7,459,$$,False,,True
+J,Coffee House,Cafe,4.7,329,$$,False,,True
+J,"""Точка кофе""",Espresso bar,4.9,14,$$,False,,True
+J,Your Coffee,Cafe,4.7,569,$$,False,True,
+J,KOFEiN,Cafe,4.4,860,$$$,False,True,True
+J,"Perfect Coffee, КАВ'ЯРНЯ",Espresso bar,4.8,124,$$,False,True,True
+J,Misceva kavyarnya,Coffee shop,4.5,898,$$,False,True,True
+J,Gangster coffee shop,Others,4.7,347,$$,True,,
+J,Crema Caffe Poltava,Coffee shop,4.3,12,$$,False,,True
+J,COFFBOY,Coffee shop,4.7,112,$$,False,True,True
+J,Wake Up Coffee,Coffee shop,4.9,17,$$,False,,True
+J,Lviv Handmade Chocolate,Others,4.6,1376,$$,False,True,True
+J,"ПЕРША ДЕГУСТАЦІЙНА ЗАЛА КАВИ ""GANGSTER_COFFEE SHOP 3""",Others,5,37,$$,False,,
+J,Aroma kava,Cafe,4.4,226,$$,False,True,True
+J,ЗАКУТОК - coffee hookah point,Coffee shop,5,15,$$,False,,
+J,CoffeePot,Coffee shop,5,18,$$,False,True,
+F,Coffee 66,Cafe,5,15,$$,False,,True
+F,Godshot Coffee,Cafe,4.7,726,$$,False,True,True
+F,Prostir.coffee Таврик,Coffee shop,5,26,$$,False,True,
+F,coffee House,Coffee shop,4.7,279,$$,False,True,True
+F,CoffeeOk,Coffee shop,4.9,18,$$,False,,True
+F,Кофе с Совой,Espresso bar,4.9,46,$$,False,,True
+F,Кофе В Херсоне,Cafe,NA,NA,$$,False,,
+F,Don Marco coffee shop,Coffee shop,4.4,593,$$,False,True,True
+F,Koko,Coffee shop,4.4,1201,$$,False,True,True
+F,Coffee house,Coffee shop,4.4,67,$$,False,,True
+F,Coffeehouse Na Poshtovomu Provulku,Coffee shop,4.6,275,$$,False,True,True
+F,Just Coffee Kherson,Espresso bar,4.5,27,$$,False,,True
+F,Don Marco,Coffee shop,4.4,304,$$,False,True,True
+F,Green house,Cafe,4.5,598,$$,True,True,True
+F,Kofemolka,Coffee shop,4.7,97,$$,False,,True
+B,Art Coffee - Інтернет Магазин Кави та Чаю,Others,5,12,$$,True,,
+B,Coffeeshop GRANO,Cafe,4.9,14,$$,False,,True
+B,Coffeeсть,Coffee shop,4.6,38,$$,False,True,True
+B,The Boiler Room,Coffee shop,4.8,98,$$,False,True,
+B,"Интернет-магазин ""Kava-e""",Others,4.7,121,$$,False,,
+B,Coffee House,Others,4.7,132,$$,False,,
+B,Caffisimo,Espresso bar,4.5,223,$$,False,,
+B,MY COFFEE,Coffee shop,4.5,341,$$,False,True,True
+B,"Kaffe ""Na Peskah""",Cafe,4.2,385,$$,False,True,True
+B,Столовая BUFET,Cafe,5,440,$$,True,True,True
+B,Svit kavy,Coffee shop,4.6,488,$$,False,True,True
+B,Comeback coffee & more,Cafe,4.8,807,$$,False,True,True
+B,Coffeelab Roasters,Coffee shop,4.7,837,$$,False,True,True
+B,Cholla & Joshua,Espresso bar,4.6,1482,$$,False,True,
+A,Смажимо каву в Одесі. Обсмажувальна №2,Coffee shop,4.7,335,$$,False,True,True
+A,Traveler`s Coffee,Coffee shop,4.6,2700,$$,True,True,True
+A,Кофе База Одесса | Coffee Baza,Others,5,10,$$,False,,
+A,Burso_Coffee,Coffee shop,5,21,$$,False,True,True
+A,Foundation Coffee Roasters,Espresso bar,4.7,1415,$$,True,True,
+A,Krem Kafe,Coffee shop,4.9,64,$$,False,True,
+A,FAB.,Others,4.9,47,$$,False,True,True
+A,Zheto,Coffee shop,4.8,2141,$$,False,True,True
+A,Eclair&Coffee,Espresso bar,4.9,36,$$,False,,
+A,Coffee Room,Coffee shop,4.7,202,$$,False,True,True
+A,Смажимо каву. Обсмажувальна N3,Coffee shop,4.6,113,$$,False,,
+A,kofevarka.odessa.ua,Others,4.6,111,$$,True,,
+A,Anso Coffee,Coffee shop,4.9,40,$$,False,True,
+A,Pasadena Coffee,Coffee shop,4.9,39,$$,False,True,
+A,Coffeetory Кофетория,Coffee shop,4.6,789,$$,True,True,True
+A,MY COFFEE,Coffee shop,4.8,150,$$,False,True,True
+A,Coffee break ZAVIDA,Coffee shop,4.9,10,$$,False,,
+E,Lviv Coffee Manufacture,Coffee shop,4.7,17937,$$,True,True,True
+E,Svit Kavy,Coffee shop,4.6,2931,$$,False,True,True
+E,Na bambetli,Coffee shop,4.7,2089,$$,False,True,True
+E,Golden Ducat,Coffee shop,4.4,813,$$,False,True,True
+E,SDV Coffee,Coffee shop,4.8,858,$$,False,True,True
+E,Fixage,Coffee shop,4.6,702,$$,False,True,True
+E,Svit Kavy,Coffee shop,4.3,102,$$,False,True,True
+E,Lviv Coffee Manufacture,Coffee shop,4.5,778,$$,False,True,True
+E,Lʹvivsʹka Manufaktura Kavy,Coffee shop,4.6,1009,$$,False,True,True
+E,Вірменка,Coffee shop,4.8,2873,$$,False,True,True
+E,Saturdays Coffee Цирк,Coffee shop,5,24,$$,True,True,True
+E,coffee House,Coffee shop,4.7,363,$$,False,True,True
+E,Chekhovych,Others,4.6,1199,$$,False,True,True
+E,Svit Kavy (Rynok Sq.),Coffee shop,4.6,1284,$$,False,True,True
+E,Cafe 1,Cafe,4.6,1570,$$,True,True,True
+E,Liberty,Cafe,5,10,$$,False,,True
+E,Lviv Croissants,Cafe,4.5,2236,$$,False,True,True
+E,Rondo Cafe,Cafe,4.9,157,$$,False,True,True
+D,SV Кафе,Cafe,4.5,998,$$,True,True,True
+D,I Feel Espresso Bar,Cafe,4.5,1509,$$,False,True,True
+D,Hunter's yard,Cafe,4.4,479,$$,False,True,True
+D,Crema Caffe Кривий Ріг,Coffee shop,4.7,455,$$,False,True,True
+D,"Tea, Coffee Shop",Others,4.6,401,$$,False,True,True
+D,Антикафе 7/9 | Кривой Рог,Cafe,4.7,190,$$,False,True,
+D,Чай Кофе,Cafe,4.4,40,$$,False,,
+D,ЕТУАЛЬ КАФЕ,Cafe,4.6,327,$$$,True,True,True
+D,Coffee Break,Espresso bar,4.8,49,$$,False,,True
+D,SV Кафе,Cafe,4.6,740,$$,False,True,True
+D,Dva Gusya Pizza,Cafe,4,1439,$$,True,True,True
+D,Offshore cafe,Cafe,4.4,947,$$,False,True,True
+D,Франс.уа на Пушкина,Cafe,4.9,156,$$,False,True,True
+D,Дикий Койот кафе,Cafe,4.9,116,$$,True,True,True
+D,BON BON,Coffee shop,4.8,156,$$,False,True,True
+D,The Spiceroom,Cafe,4.6,38,$$,True,,True
+D,Магазин AROMA coffee&tea shop,Cafe,5,33,$$,False,True,
+G,coffeeok,Others,4.9,1820,$$,True,,
+G,Coffee in Action,Coffee shop,4.9,304,$$,False,,
+G,Горький Espresso Bar,Coffee shop,5,22,$$,False,,
+G,Кафе Бутик,Others,4.7,373,$$,True,,
+G,Cuba Coffee Brew - Bar,Espresso bar,4.6,693,$$,False,True,True
+G,Progress Cafe,Coffee shop,4.9,26,$$,False,,
+G,Буду Кофе,Coffee shop,4.9,282,$$,False,True,True
+G,ONE LOVE espresso bar,Coffee shop,4.6,2319,$$,False,True,True
+G,TAKAVA Coffee-Buffet,Cafe,4.6,1737,$$,False,True,True
+G,LION coffee,Coffee shop,4.9,64,$$,False,,
+G,PRO Coffee,Espresso bar,4.8,35,$$,False,True,True
+G,RIGHT coffee bar,Coffee shop,4.7,514,$$,False,True,True
+G,Espressoholic,Espresso bar,4.6,1300,$,False,True,True
+G,Matin Desserts & Coffee,Coffee shop,4.9,110,$$,False,,
+I,КофеТочка Харьков - интернет-магазин кофе и кофеоборудования,Others,3.9,10,$$,False,,
+I,Coffee House,Espresso bar,4.5,268,$$,False,,
+I,Sweeter,Coffee shop,4.6,642,$$,False,True,True
+I,Workshop coffee,Coffee shop,4.7,400,$$,False,True,True
+I,Kofeyin,Coffee shop,4.5,2914,$$,False,True,True
+I,coffee House,Cafe,4.6,96,$$,False,,
+I,Cats and coffee | Киці та кава,Espresso bar,4.6,1394,$$,True,True,True
+I,"Dom Kofe, Mah.",Coffee shop,4.3,3,$$,False,,
+I,Dim Kavy,Espresso bar,4.7,185,$$,False,,
+I,Dim Kavy,Others,4.7,222,$$,False,True,True
+I,Sweeter,Coffee shop,4.6,289,$$,False,True,True
+I,Kava U Shafi,Coffee shop,4.6,702,$$,False,True,
+I,Coffeelaktika,Coffee shop,4.8,261,$$,False,True,True
+I,"Caffissimo, КОФЕЙНЯ",Coffee shop,4.6,118,$$,True,True,True
+I,KOFEiN®,Coffee shop,4.6,1758,$$,False,True,True
+I,Mr. Bourbon,Coffee shop,4.7,551,$$,False,True,True
+H,DoubleDecker Cake and Coffee,Others,4.7,2381,$$$,True,True,True
+H,Dim Kavy,Others,4.9,39,$$,False,,
+H,I feel city cafe,Cafe,4.5,1529,$$,True,True,True
+H,Coffee Secrets,Cafe,4.6,38,$$,False,True,True
+H,Zeffirino,Coffee shop,4.6,830,$$,False,True,True
+H,The sisters,Cafe,4.7,155,$$,False,True,True
+H,"""Франс.уа"" кофейня-пекарня",Cafe,3.9,9,$$,False,,True
+H,Tsikava Kava,Others,4.7,185,$$,True,True,
+H,Try Bobry,Coffee shop,4.6,2013,$$,False,True,True
+H,Pa-si-ju Кафе,Cafe,4.6,1051,$$,True,True,True
+H,Колибри,Cafe,5,18,$$,False,True,True
+H,Dream Cafe,Cafe,4.3,646,$$,False,True,True
+H,РУТА КАФЕ ПП КУЛІЧЕНКО К.І.,Cafe,4.6,16,$$,False,True,True
+H,Ob'yektna Kava,Coffee shop,4.7,599,$$,False,True,True
+H,О...МАРАТ КАФЕ ПП ПОЛІСТЕП,Cafe,4.3,341,$$,False,True,
